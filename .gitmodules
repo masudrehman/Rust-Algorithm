@@ -1,0 +1,3 @@
+[submodule "binary-search"]
+	path = binary-search
+	url = https://github.com/masudrehman/binary-search.git
