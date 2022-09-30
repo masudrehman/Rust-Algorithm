@@ -1,3 +1,6 @@
 [submodule "binary-search"]
 	path = binary-search
 	url = https://github.com/masudrehman/binary-search.git
+[submodule "merge-two-arrays"]
+	path = merge-two-arrays
+	url = https://github.com/masudrehman/merge.git
